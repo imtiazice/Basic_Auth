@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BasicAuth</string>
+    <string name="title_activity_maps">Your Location</string>
+</resources>
